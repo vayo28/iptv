@@ -1,0 +1,851 @@
+#EXTM3U
+
+#EXTINF:-1, tvg-logo="" group-title="Canales Chilenos", -[COLOR red]Canales Chilenos[/COLOR]-
+http://127.0.0.1
+
+#EXTINF:-1, tvg-logo="" group-title="Canales Chilenos", La Red (HD)
+http://live-lared.cdn.nedmedia.io/lared/smil:lared.smil/playlist.m3u8
+
+#EXTINF:-1, tvg-logo="" group-title="Canales Chilenos", UCV (HD)
+http://movilstream.digitalproserver.com/ucvtv/ucvtv.smil/playlist.m3u8
+
+#EXTINF:-1, tvg-logo="" group-title="Canales Chilenos", TVN (HD)
+http://edge-101-cl.edge.mdstrm.com/tvn-live/smil:7cb6048ff45cb5cdf7f5fed828597fd1/playlist.m3u8?
+
+#EXTINF:-1, tvg-logo="" group-title="Canales Chilenos", MEGA (HD)
+http://edge-81-cl.edge.mdstrm.com/live/smil:db6a38a0a2bffd96d01965c4d975b9fb/playlist.m3u8?
+
+#EXTINF:-1, tvg-logo="" group-title="Canales Chilenos", CHV (432p)
+http://live.hls.http.chv.ztreaming.com/chvhddesktop/chv-desktop.m3u8
+
+#EXTINF:-1, tvg-logo="" group-title="Canales Chilenos", Canal 13 (540p)
+http://13.live.cdn.cl/13hddesktop/13hd-1250.m3u8
+
+#EXTINF:-1, tvg-logo="" group-title="Canales Chilenos", 13C
+http://cluster.13cmovil.ztreaming.com/13cm/grpz13c/playlist.m3u8
+
+#EXTINF:-1, tvg-logo="" group-title="Canales Chilenos", TVN Señal Int. (TV Chile)
+http://edge-111-cl.edge.mdstrm.com/tvn-live/smil:285a5c6dade574d5f111419c85c6cf17/playlist.m3u8
+
+#EXTINF:-1, tvg-logo="" group-title="Canales Chilenos", LIV TV (HD)
+http://cdn.ztreaming.com/tustreaming/live2/playlist.m3u8
+
+#EXTINF:-1, tvg-logo="" group-title="Canales Chilenos", CDO HD (480p)
+http://wow2.cl.digitalproserver.com/cdo/cdovivo/cdo.smil/chunklist_w913906597_b1064000.m3u8
+
+#EXTINF:-1, tvg-logo="" group-title="Canales Chilenos", Camara de Diputados
+rtsp://origin.camara.ztreaming.com/origincamara8/streamcam8.sdp
+
+#EXTINF:-1, tvg-logo="" group-title="Canales Chilenos", Teletrak
+http://movilstream.digitalproserver.com/sporting/sportingvivo/livestream1/chunklist.m3u8
+
+#EXTINF:-1, tvg-logo="" group-title="Canales Chilenos", Agro TV (HD)
+http://v1.streaminglatinoamerica.com:1935/agrotvweb/agrotvweb/playlist.m3u8
+
+
+#EXTINF:-1, tvg-logo="" group-title="Radios Chilenas con Video", -[COLOR red]Radios Chilenas con Video[/COLOR]-
+http://127.0.0.1
+
+#EXTINF:-1, tvg-logo="" group-title="Radios Chilenas con Video", Duna (89.7 FM)
+http://wow1.dallas.digitalproserver.com/dunatv/dunatvvivo/dunatv.smil/playlist.m3u8
+
+#EXTINF:-1, tvg-logo="" group-title="Radios Chilenas con Video", ADN (91.7 FM)
+http://movilstream.digitalproserver.com/adn/adnvivo/adn.smil/playlist.m3u8
+
+#EXTINF:-1, tvg-logo="" group-title="Radios Chilenas con Video", La Clave (92.9)
+rtmp://wow2.cl.digitalproserver.com/laclavetv/laclavetvvivo playpath=mp4:livestream1 swfUrl=http://media.digitalproserver.com/v2/jw/7/jwplayer.flash.swf live=1 pageUrl=http://media.digitalproserver.com/v2/live/laclavetv
+
+#EXTINF:-1, tvg-logo="" group-title="Radios Chilenas con Video", Tele13 Radio (103.3 FM)
+http://cdn.ztreaming.com/t13radio/mobile.m3u8
+
+
+#EXTINF:-1,[COLOR yellow]---Deportes---[/COLOR]
+http://0.0.0.0:1234
+
+
+#EXTINF:-1 tvg-id="TV Guia_FORMULA1 HD" tvg-name="FORMULA1_HD" tvg-logo="canal-2-HD.png" group-title="Español",FORMULA1 HD
+http://vod.cdn.iutpcdn.com:80:81:237/LIVE/H01/CANAL511/PROFILE05.m3u8?totalplay=%2F.ts
+
+#EXTINF:-1 tvg-id="Total-MX_I522.20544.tutvguia.com" tvg-name="522_FSAHD522FSAHDFox_Sports_Latin_America_HDTV_(Northern_Feed)" tvg-logo="FoxSports1.png" group-title="Latino",Fox Sports HD
+http://vod.cdn.iutpcdn.com:80:81:237/LIVE/H01/CANAL522/PROFILE05.m3u8?totalpley=%2F.ts
+
+#EXTINF:-1 tvg-id="Total-MX_I527.29091.tutvguia.com" tvg-name="527_FOXSP2HD527FOXSP2HDFox_Sports_2_HDTV" tvg-logo="FoxSports2.png" group-title="Latino",Fox Sports 2 HD
+http://vod.cdn.iutpcdn.com:80:81:237/LIVE/H01/CANAL527/PROFILE03.m3u8?totalpley=%2F.ts
+
+
+#EXTINF:-1 tvg-id="Total-MX_I516.24270.tutvguia.com" tvg-name="516_ESPN+516ESPN+ESPN_+_Latin_America_HDTV" tvg-logo="espn.png" group-title="Latino",ESPN HD
+http://vod.cdn.iutpcdn.com:80:81:237/LIVE/H01/CANAL516/PROFILE03.m3u8?totalpley=%2F.ts
+
+
+#EXTINF:-1 tvg-id="Total-MX_I516.24270.tutvguia.com" tvg-name="516_ESPN+516ESPN+ESPN_+_Latin_America_HDTV" tvg-logo="espn-2.png" group-title="Latino",ESPN HD
+http://vod.cdn.iutpcdn.com:80:81:237/LIVE/H01/CANAL516/PROFILE05.m3u8?totalpley=%2F.ts
+
+
+#EXTINF:-1 tvg-id="Total-MX_I558.18573.tutvguia.com" tvg-name="558_ESPNMX558ESPNMXESPN_Latin_North_(Mexico)" tvg-logo="espn.png" group-title="Latino",ESPN
+http://vod.cdn.iutpcdn.com:80:81:237/LIVE/H01/CANAL558/PROFILE05.m3u8?totalpley=%2F.ts
+
+#EXTINF:-1 tvg-id="Total-MX_I561.3679.tutvguia.com" tvg-name="561_ESPN2561ESPN2ESPN-2_(Mexico)" tvg-logo="espn-2.png" group-title="Latino",ESPN 2
+http://vod.cdn.iutpcdn.com:80:81:237/LIVE/H01/CANAL561/PROFILE03.m3u8?totalpley=%2F.ts
+
+
+#EXTINF:-1 tvg-id="Total-MX_I520.38250.tutvguia.com" tvg-name="520_ESPN3520ESPN3ESPN_3_North_(Latin_America)" tvg-logo="espn-3.png" group-title="Latino",ESPN 3 HD
+http://vod.cdn.iutpcdn.com:80:81:237/LIVE/H01/CANAL520/PROFILE05.m3u8?totalpley=%2F.ts
+
+#EXTINF:-1 tvg-id="Total-MX_I576.15973.tutvguia.com" tvg-name="576_AyM576AyMAYM_Sports" tvg-logo="aym-sports.png" group-title="Latino",AyM Sport
+http://vod.cdn.iutpcdn.com:80:81:237/LIVE/H01/CANAL576/PROFILE05.m3u8?totalpley=%2F.ts
+
+#EXTINF:0 tvg-name="Canal+ Futbol" tvg-language="Spanish" tvg-country="ES" tvg-id="Canal+ Futbol" tvg-logo="http://i.imgur.com/gVg0QEZ.png" group-title="Sports",Canal+ Futbol (Sports) (ES) (Spanish)
+http://iptvbox.noip.us:9998/live/atik/atik/857.m3u8
+
+#EXTINF:0 tvg-name="Real Madrid TV" tvg-language="Spanish" tvg-country="ES" tvg-id="Real Madrid TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/ae/Realmadrid-TV.jpg" group-title="Sports",Real Madrid TV (Sports) (ES) (Spanish)
+http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/master.m3u8
+
+#EXTINF:0 tvg-name="beIN Sports" tvg-language="Spanish" tvg-country="ES" tvg-id="beIN Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS37P4Hh8Fc8P1o7-6-ygxKxp4Xa4ThZk4IZ_AgmpuAaGchgOd7oYAgqRg" group-title="Sports",beIN Sports (Sports) (ES) (Spanish)
+http://iptvbox.noip.us:9998/live/atik/atik/847.m3u8
+
+#EXTINF:-1,Canal Futbol 
+http://iptvbox.noip.us:9998/live/atik/atik/265.m3u8
+#EXTINF:-1,Canal Futbol 2
+http://iptvbox.noip.us:9998/live/atik/atik/857.m3u8
+
+#EXTINF:-1,Canal  Liga
+http://iptvbox.noip.us:9998/live/atik/atik/274.m3u8
+
+#EXTINF:0 group-title="English",Skynet Sports (English) 
+rtmp://216.185.103.158/live2//chSport1hd
+
+#EXTINF:0 group-title="English",Skynet Sports (English) 
+rtmp://216.185.103.158/live2//chSport2hd
+
+#EXTINF:0 group-title="English",Sky Sports 1(English) 
+http://80.243.189.26:8889/sprtXStpp/sky1/index.m3u8
+
+#EXTINF:0 group-title="English",Sky Sports 2 (English) 
+http://80.243.189.26:8889/sprtXStpp/sky2/index.m3u8
+
+#EXTINF:0 group-title="English",Sky Sports 3 (English) 
+http://80.243.189.26:8889/sprtXStpp/sky3/index.m3u8
+
+#EXTINF:0 group-title="English",Sky Sports 4 (English) 
+http://80.243.189.26:8889/sprtXStpp/sky4/index.m3u8
+
+#EXTINF:0 group-title="English",Sky Sports 5 (English) 
+http://80.243.189.26:8889/sprtXStpp/sky5/index.m3u8
+
+
+
+#EXTINF:-1,[COLOR yellow]--- Entretenimiento---[/COLOR]
+http://0.0.0.0:1234
+
+
+#EXTINF:-1 tvg-id="Total-MX_I273.32996.tutvguia.com" tvg-name="273_TBS273TBSTBS_Latin_America" tvg-logo="tbs.png" group-title="Latino",TBS
+http://vod.cdn.iutpcdn.com:80:81:237/LIVE/H01/CANAL273/PROFILE05.m3u8?totalplay=%2F.ts
+
+#EXTINF:-1 tvg-id="Total-MX_I251.5022.tutvguia.com" tvg-name="251_FOX251FOXFox_International_(Mexico)" tvg-logo="fox.png" group-title="Latino",Fox
+http://vod.cdn.iutpcdn.com:80:81:237/LIVE/H01/CANAL201/PROFILE05.m3u8?totalplay=%2F.ts
+
+#EXTINF:-1 tvg-id="Total-MX_I252.5048.tutvguia.com" tvg-name="252_SONY252SONYSony_Entertainment_Television_(Mexico)" tvg-logo="sony.png" group-title="Latino",Sony HD
+http://vod.cdn.iutpcdn.com:80:81:237/LIVE/H01/CANAL203/PROFILE05.m3u8?totalplay=%2F.ts
+
+#EXTINF:-1 tvg-id="Total-MX_I205.30578.tutvguia.com" tvg-name="205_WARNERHD205WARNERHDWarner_Channel_Latin_America_HDTV" tvg-logo="warner.png" group-title="Latino",Warner HD
+http://vod.cdn.iutpcdn.com:80:81:237/LIVE/H01/CANAL205/PROFILE05.m3u8?totalplay=%2F.ts
+
+#EXTINF:-1 tvg-id="Total-MX_I207.28439.tutvguia.com" tvg-name="207_UNIVERHD207UNIVERHDUniversal_Channel_HDTV_(Latin_America)" tvg-logo="universal-channel.png" group-title="Latino",Universal HD
+http://vod.cdn.iutpcdn.com:80:81:237/LIVE/H01/CANAL207/PROFILE05.m3u8?totalplay=%2F.tstotalpley=%2F.ts
+
+#EXTINF:-1 tvg-id="Total-MX_I256.19205.tutvguia.com" tvg-name="256_UNIVERS256UNIVERSUniversal_Channel_(Mexico)" tvg-logo="universal-channel.png" group-title="Latino",Universal Channel
+http://vod.cdn.iutpcdn.com:80:81:237/LIVE/H01/CANAL256/PROFILE05.m3u8?totalplay=%2F.ts
+
+
+#EXTINF:-1 tvg-id="Total-MX_I209.35817.tutvguia.com" tvg-name="209_FXHD209FXHDFX_Latin_America_HDTV_(DIRECTV)" tvg-logo="fx.png" group-title="Latino",FX HD
+http://vod.cdn.iutpcdn.com:80:81:237/LIVE/H01/CANAL209/PROFILE05.m3u8?totalplay=%2F.ts
+
+#EXTINF:-1 tvg-id="Total-MX_I259.5041.tutvguia.com" tvg-name="259_A&E259A&EA&E_(Mexico)" tvg-logo="a&e.png" group-title="Latino",A&E
+http://vod.cdn.iutpcdn.com:80:81:237/LIVE/H01/CANAL211/PROFILE05.m3u8?totalplay=%2F.ts
+
+
+#EXTINF:-1 tvg-id="Total-MX_I213.30579.tutvguia.com" tvg-name="213_AXNHD213AXNHDAXN_Latin_America_HDTV" tvg-logo="AXN.png" group-title="Latino",AXN HD
+http://vod.cdn.iutpcdn.com:80:81:237/LIVE/H01/CANAL213/PROFILE05.m3u8?totalplay=%2F.ts
+
+#EXTINF:-1 tvg-id="Total-MX_I215.28437.tutvguia.com" tvg-name="215_TRUTVD215TRUTVDtruTV_HDTV_(Latin_America)" tvg-logo="trutv.png" group-title="Latino",TruTV HD
+http://vod.cdn.iutpcdn.com:80:81:237/LIVE/H01/CANAL215/PROFILE05.m3u8?totalplay=%2F.ts
+
+
+#EXTINF:-1 tvg-id="Total-MX_I217.34626.tutvguia.com" tvg-name="217_CMDHD217CMDHDComedy_Central_HDTV_(Latin_America_-_North)" tvg-logo="comedy-central-hd.png" group-title="Latino",Comedy Central HD
+http://vod.cdn.iutpcdn.com:80:81:237/LIVE/H01/CANAL217/PROFILE05.m3u8?totalplay=%2F.ts
+
+#EXTINF:-1 tvg-id="Total-MX_I218.49820.tutvguia.com" tvg-name="218_UNICAB218UNICABUnicable_(Mexico)" tvg-logo="unicable.png" group-title="Latino",Unicable
+http://vod.cdn.iutpcdn.com:80:81:237/LIVE/H01/CANAL218/PROFILE05.m3u8?totalplay=%2F.ts
+
+#EXTINF:-1 tvg-id="Total-MX_I253.3343.tutvguia.com" tvg-name="253_BBCINT253BBCINTBBC_World_News" tvg-logo="bbc-entertainment.png" group-title="Latino",BBC Entertainment
+http://vod.cdn.iutpcdn.com:80:81:237/LIVE/H01/CANAL253/PROFILE05.m3u8?totalplay=%2F.ts
+
+#EXTINF:-1 tvg-id="Total-MX_I255.2247.tutvguia.com" tvg-name="255_E!255E!E!_Entertainment_Television_(Mexico)" tvg-logo="!e.png" group-title="Latino",E! Entertainment Television
+http://vod.cdn.iutpcdn.com:80:81:237/LIVE/H01/CANAL255/PROFILE05.m3u8?totalplay=%2F.ts
+
+#EXTINF:-1 tvg-id="Total-MX_I257.21041.tutvguia.com" tvg-name="257_Syfy257SyfySyfy_(Latin_America)" tvg-logo="syfy.png" group-title="Latino",SyFy
+http://vod.cdn.iutpcdn.com:80:81:237/LIVE/H01/CANAL257/PROFILE05.m3u8?totalplay=%2F.ts
+
+#EXTINF:-1 tvg-id="Total-MX_I258.16756.tutvguia.com" tvg-name="258_FX258FXFX_Latin_America" tvg-logo="fx.png" group-title="Latino",FX
+http://vod.cdn.iutpcdn.com:80:81:237/LIVE/H01/CANAL258/PROFILE05.m3u8?totalplay=%2F.ts
+
+
+#EXTINF:-1 tvg-id="Total-MX_I270.19643.tutvguia.com" tvg-name="270_GLITZ270GLITZGLITZ_Panregional_(Norte)" tvg-logo="glitz.png" group-title="Latino",Glitz
+http://vod.cdn.iutpcdn.com:80:81:237/LIVE/H01/CANAL270/PROFILE05.m3u8?totalplay=%2F.ts
+
+#EXTINF:-1 tvg-id="Total-MX_I262.32262.tutvguia.com" tvg-name="262_FOXLF262FOXLFFox_Life_(Latin_America)" tvg-logo="fox-life.png" group-title="Latino",Fox Life
+http://vod.cdn.iutpcdn.com:80:81:237/LIVE/H01/CANAL271/PROFILE05.m3u8?totalplay=%2F.ts
+
+#EXTINF:-1 tvg-id="Total-MX_I272.20020.tutvguia.com" tvg-name="272_DISTCOM272DISTCOMDistrito_Comedia" tvg-logo="distrito-comedia.png" group-title="Latino",Distrito Comedia
+http://vod.cdn.iutpcdn.com:80:81:237/LIVE/H01/CANAL272/PROFILE05.m3u8?totalpley=%2F.ts
+
+#EXTINF:-1 tvg-id="Total-MX_I273.32996.tutvguia.com" tvg-name="273_TBS273TBSTBS_Latin_America" tvg-logo="tbs.png" group-title="Latino",TBS
+http://vod.cdn.iutpcdn.com:80:81:237/LIVE/H01/CANAL273/PROFILE05.m3u8?totalplay=%2F.ts
+
+#EXTINF:-1 tvg-id="Total-MX_I266.58465.tutvguia.com" tvg-name="266_TNTSERIE266TNTSERIETNT_Series_SUR_SD" tvg-logo="TNT_Serie.png" group-title="Latino",TNT Series
+http://vod.cdn.iutpcdn.com:80:81:237/LIVE/H01/CANAL266/PROFILE05.m3u8?totalplay=%2F.ts
+
+#EXTINF:-1 tvg-id="Total-MX_I445.27416.tutvguia.com" tvg-name="445_SPACEHD445SPACEHDSPACE_HDTV_(Mexico)" tvg-logo="space.png" group-title="Latino",Space HD
+http://vod.cdn.iutpcdn.com:80:81:237/LIVE/H01/CANAL445/PROFILE05.m3u8?totalpley=%2F.ts
+
+#EXTINF:-1 group-title=”LATINOS”,space
+http://31.220.40.123:80/LiveEdge/SpaceLA/playlist.m3u8?token=f461a514f88b27dec66b32755576cb58
+
+#EXTINF:-1 tvg-id="Total-MX_I726.1205.tutvguia.com" tvg-name="726_MTV726MTVMTV_Latin_America_(North_Feed)" tvg-logo="mtv.png" group-title="Latino",MTV
+http://vod.cdn.iutpcdn.com:80:81:237/LIVE/H01/CANAL726/PROFILE05.m3u8?totalpley=%2F.ts
+
+#EXTINF:-1 tvg-id="Total-MX_I491.23310.tutvguia.com" tvg-name="491_SPACE491SPACESPACE_(Mexico)" tvg-logo="space.png" group-title="Latino",Space                http://vod.cdn.iutpcdn.com:80:81:237/LIVE/H01/CANAL491/PROFILE03.m3u8?totalpley=%2F.ts
+
+#EXTINF:-1 tvg-id="Total-MX_I492.4316.tutvguia.com" tvg-name="492_STUNI492STUNIStudio_Universal_(Mexico)" tvg-logo="studio-universal.png" group-title="Latino",Studio Universal http://vod.cdn.iutpcdn.com:80:81:237/LIVE/H01/CANAL492/PROFILE05.m3u8?totalpley=%2F.ts
+
+#EXTINF:-1 tvg-id="Total-MX_I495.23556.tutvguia.com" tvg-name="495_I-SAT495I-SATI-SAT_(Pan-Regional)" tvg-logo="i.sat.png" group-title="Latino",I.Sat
+http://vod.cdn.iutpcdn.com:80:81:237/LIVE/H01/CANAL495/PROFILE05.m3u8?totalpley=%2F.ts
+
+#EXTINF:-1 tvg-id="Total-MX_I496.23013.tutvguia.com" tvg-name="496_TCMLA496TCMLATCM_-_Turner_Classic_Movies_(Pan-Regional)" tvg-logo="tcm.png" group-title="Latino",TCM
+http://vod.cdn.iutpcdn.com:80:81:237/LIVE/H01/CANAL496/PROFILE05.m3u8?totalpley=%2F.ts
+
+#EXTINF:-1 tvg-id="Total-MX_I275.9990.tutvguia.com" tvg-name="275_TLNOV275TLNOVTele_Novelas_(México)" tvg-logo="tlnovelas.png" group-title="Latino",Tlnovelas
+http://vod.cdn.iutpcdn.com:80:81:237/LIVE/H01/CANAL275/PROFILE05.m3u8?totalplay=%2F.ts
+
+
+#EXTINF:-1,[COLOR yellow]--- Comicas---[/COLOR]
+http://0.0.0.0:1234
+
+
+#EXTINF:-1 tvg-id="Total-MX_I303.18881.tutvguia.com" tvg-name="303_DKIDS303DKIDSDiscovery_Kids_(Mexico)" tvg-logo="discovery-kids.png" group-title="Latino",Discovery Kids
+http://vod.cdn.iutpcdn.com:80:81:237/LIVE/H01/CANAL303/PROFILE05.m3u8?totalplay=%2F.ts
+
+#EXTINF:-1 tvg-id="Total-MX_I305.23264.tutvguia.com" tvg-name="305_CBeBie305CBeBieCBeebies" tvg-logo="cbeebies.png" group-title="Latino",CBeebies
+http://vod.cdn.iutpcdn.com:80:81:237/LIVE/H01/CANAL305/PROFILE05.m3u8?totalplay=%2F.ts
+
+#EXTINF:-1 tvg-id="Total-MX_I308.21129.tutvguia.com" tvg-name="308_DISJR308DISJRDisney_Junior_(North_Feed)" tvg-logo="disney-jr.png" group-title="Latino",Disney Jr
+http://vod.cdn.iutpcdn.com:80:81:237/LIVE/H01/CANAL308/PROFILE05.m3u8?totalpley=%2F.ts
+
+#EXTINF:-1 tvg-id="Total-MX_I310.21199.tutvguia.com" tvg-name="310_NICKJR310NICKJRNick_Jr." tvg-logo="nick-jr.png" group-title="Latino",Nick Jr
+http://vod.cdn.iutpcdn.com:80:81:237/LIVE/H01/CANAL310/PROFILE05.m3u8?totalplay=%2F.ts
+
+#EXTINF:-1 tvg-id="Total-MX_I312.9374.tutvguia.com" tvg-name="312_DISNEY312DISNEYDisney_en_Español_(North_Feed)" tvg-logo="disney-channel.png" group-title="Latino",Disney Channel
+http://vod.cdn.iutpcdn.com:80:81:237/LIVE/H01/CANAL312/PROFILE03.m3u8?totalplay=%2F.ts
+
+#EXTINF:-1 tvg-id="Total-MX_I314.38401.tutvguia.com" tvg-name="314_NTOONS314NTOONSNicktoons_(Latin_America)" tvg-logo="nicktoons.png" group-title="Latino",NickToons
+http://vod.cdn.iutpcdn.com:80:81:237/LIVE/H01/CANAL314/PROFILE05.m3u8?totalplay=%2F.ts
+
+#EXTINF:-1 tvg-id="Total-MX_I315.33278.tutvguia.com" tvg-name="315_NICKHD315NICKHDNickelodeon_HDTV_(Latin_America)" tvg-logo="nickelodeon-(nick).png" group-title="Latino",Nick HD
+http://vod.cdn.iutpcdn.com:80:81:237/LIVE/H01/CANAL315/PROFILE05.m3u8?totalpley=%2F.ts
+
+#EXTINF:-1 tvg-id="Total-MX_I317.5043.tutvguia.com" tvg-name="317_NICK317NICKNickelodeon_(Latin_America_/_North)" tvg-logo="nickelodeon.png" group-title="Latino",Nickelodeon
+http://vod.cdn.iutpcdn.com:80:81:237/LIVE/H01/CANAL317/PROFILE05.m3u8?totalplay=%2F.ts
+
+#EXTINF:-1 tvg-id="Total-MX_I320.5011.tutvguia.com" tvg-name="320_TOON320TOONCartoon_Network_(Latin_America_-_Mexico)" tvg-logo="cartoon-network.png" group-title="Latino",Cartoon Network
+http://vod.cdn.iutpcdn.com:80:81:237/LIVE/H01/CANAL320/PROFILE05.m3u8?totalpley=%2F.ts
+
+#EXTINF:-1 tvg-id="Total-MX_I322.9757.tutvguia.com" tvg-name="322_DISXD322DISXDDisney_XD_Latin_America_(North)" tvg-logo="disney-xd.png" group-title="Latino",Disney XD
+http://vod.cdn.iutpcdn.com:80:81:237/LIVE/H01/CANAL322/PROFILE05.m3u8?totalplay=%2F.ts
+
+#EXTINF:-1 tvg-id="Total-MX_I320.5011.tutvguia.com" tvg-name="320_TOON320TOONCartoon_Network_(Latin_America_-_Mexico)" tvg-logo="cartoon-network.png" group-title="Latino",Cartoon Network
+http://vod.cdn.iutpcdn.com:80:81:237/LIVE/H01/CANAL320/PROFILE05.m3u8?totalpley=%2F.ts
+
+#EXTINF:-1 tvg-id="Total-MX_I324.23509.tutvguia.com" tvg-name="324_BOOM324BOOMBoomerang_(Mexico)" tvg-logo="boomerang.png" group-title="Latino",Boomerang
+http://vod.cdn.iutpcdn.com:80:81:237/LIVE/H01/CANAL324/PROFILE05.m3u8?totalplay=%2F.ts
+
+#EXTINF:-1 tvg-id="Total-MX_I325.12263.tutvguia.com" tvg-name="325_TIIN325TIINTiiN" tvg-logo="tiin.png" group-title="Latino",TIIN
+http://vod.cdn.iutpcdn.com:80:81:237/LIVE/H01/CANAL325/PROFILE05.m3u8?totalpley=%2F.ts
+
+#EXTINF:-1 tvg-id="Total-MX_I328.23312.tutvguia.com" tvg-name="328_TOONC328TOONCTooncast_Latin_America" tvg-logo="tooncast.png" group-title="Latino",Tooncast
+http://vod.cdn.iutpcdn.com:80:81:237/LIVE/H01/CANAL328/PROFILE05.m3u8?totalpley=%2F.ts
+
+
+#EXTINF:-1,[COLOR yellow]--- Documentales---[/COLOR]
+http://0.0.0.0:1234
+
+#EXTINF:-1 tvg-id="Total-MX_I263.11466.tutvguia.com" tvg-name="263_ID263IDInvestigation_Discovery_(Mexico)" tvg-logo="investigation_discovery.png" group-title="Latino",Investigación Discovery
+
+http://vod.cdn.iutpcdn.com:80:81:237/LIVE/H01/CANAL263/PROFILE05.m3u8?totalplay=%2F.ts
+
+#EXTINF:-1 tvg-id="Total-MX_I351.23559.tutvguia.com" tvg-name="351_THEATER351THEATERDiscovery_Theater_HDTV_(Latin_America)" tvg-logo="discovery-theater.png" group-title="Latino",Discovery Theater HD
+
+http://vod.cdn.iutpcdn.com:80:81:237/LIVE/H01/CANAL351/PROFILE05.m3u8?totalplay=%2F.ts
+
+#EXTINF:-1 tvg-id="Total-MX_I353.28410.tutvguia.com" tvg-name="353_THCINHD353THCINHDThe_History_Channel_HDTV" tvg-logo="history.png" group-title="Latino",History HD
+http://vod.cdn.iutpcdn.com:80:81:237/LIVE/H01/CANAL353/PROFILE03.m3u8?totalplay=%2F.ts
+
+#EXTINF:-1 tvg-id="Total-MX_I355.27421.tutvguia.com" tvg-name="355_NGWILDHD355NGWILDHDNational_Geographic_Wild_HDTV_(Latin_America)" tvg-logo="natgeo-wild.png" group-title="Latino",NatGeo Wild HD
+
+http://vod.cdn.iutpcdn.com:80:81:237/LIVE/H01/CANAL355/PROFILE05.m3u8?totalplay=%2F.ts
+
+#EXTINF:-1 tvg-id="Total-MX_I356.9294.tutvguia.com" tvg-name="356_TLC356TLCTLC_(Latin_America)" tvg-logo="discovery-world-hd.png" group-title="Latino",Discovery World HD
+
+http://vod.cdn.iutpcdn.com:80:81:237/LIVE/H01/CANAL356/PROFILE05.m3u8?totalplay=%2F.ts
+
+#EXTINF:-1 tvg-id="Total-MX_I371.10644.tutvguia.com" tvg-name="371_DSC371DSCThe_Discovery_Channel_(Mexico)" tvg-logo="discovery-channel.png" group-title="Latino",Discovery Channel
+
+http://vod.cdn.iutpcdn.com:80:81:237/LIVE/H01/CANAL371/PROFILE05.m3u8?totalplay=%2F.ts
+
+#EXTINF:-1 tvg-id="Total-MX_I373.75657.tutvguia.com" tvg-name="373_ANIMAL373ANIMALAnimal_Planet_International_(Mexico)" tvg-logo="animalplanet.png" group-title="Latino",Animal Planet
+
+http://vod.cdn.iutpcdn.com:80:81:237/LIVE/H01/CANAL373/PROFILE05.m3u8?totalplay=%2F.ts
+
+#EXTINF:-1 tvg-id="Total-MX_I374.23218.tutvguia.com" tvg-name="374_DH&H374DH&HDiscovery_Home_&_Health_(Mexico)" tvg-logo="home-and-health.png" group-title="Latino",Home and Health
+
+http://vod.cdn.iutpcdn.com:80:81:237/LIVE/H01/CANAL374/PROFILE03.m3u8?totalplay=%2F.ts
+
+#EXTINF:-1 tvg-id="Total-MX_I354.12260.tutvguia.com" tvg-name="354_NGC354NGCNational_Geographic_Channel_(West_/_Mexico)" tvg-logo="natgeo.png" group-title="Latino",NatGeo
+
+http://vod.cdn.iutpcdn.com:80:81:237/LIVE/H01/CANAL377/PROFILE05.m3u8?totalplay=%2F.ts
+
+#EXTINF:-1 tvg-id="Total-MX_I379.19092.tutvguia.com" tvg-name="379_LIFETIME379LIFETIMELifetime_(México)" tvg-logo="lifetime.png" group-title="Latino",Lifetime
+
+http://vod.cdn.iutpcdn.com:80:81:237/LIVE/H01/CANAL379/PROFILE05.m3u8?totalplay=%2F.ts
+
+#EXTINF:-1 tvg-id="Total-MX_I381.16122.tutvguia.com" tvg-name="381_DSCI381DSCIDiscovery_Science_International" tvg-logo="discovery-science.png" group-title="Latino",Discovery Science
+http://vod.cdn.iutpcdn.com:80:81:237/LIVE/H01/CANAL381/PROFILE05.m3u8?totalplay=%2F.ts
+
+#EXTINF:-1 tvg-id="Total-MX_I382.16121.tutvguia.com" tvg-name="382_DCIVI382DCIVIDiscovery_Civilization_International" tvg-logo="discovery-civilization.png" group-title="Latino",Discovery Civilization
+http://vod.cdn.iutpcdn.com:80:81:237/LIVE/H01/CANAL382/PROFILE05.m3u8?totalplay=%2F.ts
+
+#EXTINF:-1 tvg-id="Total-MX_I383.16118.tutvguia.com" tvg-name="383_DTUR383DTURDiscovery_Turbo_International" tvg-logo="discovery-turbo.png" group-title="Latino",Discovery Turbo
+http://vod.cdn.iutpcdn.com:80:81:237/LIVE/H01/CANAL383/PROFILE05.m3u8?totalplay=%2F.ts
+
+#EXTINF:-1 tvg-id="Total-MX_I356.9294.tutvguia.com" tvg-name="356_TLC356TLCTLC_(Latin_America)" tvg-logo="tlc.png" group-title="Latino",TLC
+http://vod.cdn.iutpcdn.com:80:81:237/LIVE/H01/CANAL386/PROFILE05.m3u8?totalplay=%2F.ts
+
+#EXTINF:-1 tvg-id="Total-MX_I387.19272.tutvguia.com" tvg-name="387_WOBI387WOBIWorld_of_Business_Ideas" tvg-logo="wobi-tv.png" group-title="Latino",WOBI TV
+http://vod.cdn.iutpcdn.com:80:81:237/LIVE/H01/CANAL387/PROFILE05.m3u8?totalplay=%2F.ts
+
+
+#EXTINF:-1,[COLOR yellow]--- Canales Premium---[/COLOR]
+http://0.0.0.0:1234
+
+#EXTINF:-1,Canal Estrenos
+http://iptvbox.noip.us:9998/live/atik/atik/587.m3u8
+
+#EXTINF:-1,Canal Series
+http://iptvbox.noip.us:9998/live/atik/atik/268.m3u8
+
+#EXTINF:-1,Canal DCine
+http://iptvbox.noip.us:9998/live/atik/atik/261.m3u8
+
+#EXTINF:-1,Canal Comedia
+http://iptvbox.noip.us:9998/live/atik/atik/275.m3u8
+
+#EXTINF:-1,Canal Accion
+http://iptvbox.noip.us:9998/live/atik/atik/262.m3u8
+
+#EXTINF:-1,[COLOR blue]ES.Canal Xtra[/COLOR]
+http://iptvbox.noip.us:9998/live/atik/atik/586.m3u8
+
+#EXTINF:-1,[COLOR blue]Hollywood[/COLOR]
+http://iptvbox.noip.us:9998/live/atik/atik/263.m3u8
+
+#EXTINF:-1 group-title=”LATINOS”,HBOPlusLASD
+http://31.220.40.123:80/LiveEdge/HBOPlusLASD/playlist.m3u8?token=f461a514f88b27dec66b32755576cb58
+
+
+#EXTINF:-1 tvg-id="Total-MX_I415.35334.tutvguia.com" tvg-name="415_F1HD415F1HDFOX_1_HDTV_(West)" tvg-logo="fox-1-hd.png" group-title="Latino",Fox 1 HD
+http://vod.cdn.iutpcdn.com:80:81:237/LIVE/H01/CANAL415/PROFILE05.m3u8?totalplay=%2F.ts
+
+#EXTINF:-1 tvg-id="Total-MX_I416.33474.tutvguia.com" tvg-name="416_FACHD416FACHDFox_Action_HDTV_(East)" tvg-logo="fox-action.png" group-title="Latino",Fox Action
+http://vod.cdn.iutpcdn.com:80:81:237/LIVE/H01/CANAL416/PROFILE05.m3u8?totalplay=%2F.ts
+
+#EXTINF:-1 tvg-id="Total-MX_I417.33135.tutvguia.com" tvg-name="417_FMOHD417FMOHDFox_Movies_HDTV_(East)" tvg-logo="Fox_Moxie_Channel.png" group-title="Latino",Fox Movies HD
+http://vod.cdn.iutpcdn.com:80:81:237/LIVE/H01/CANAL417/PROFILE05.m3u8?totalpley=%2F.ts
+
+#EXTINF:-1 tvg-id="Total-MX_I421.29522.tutvguia.com" tvg-name="421_FOXCI421FOXCIFox_Cinéma" tvg-logo="fox-cinema.png" group-title="Latino",Fox Cinéma
+http://vod.cdn.iutpcdn.com:80:81:237/LIVE/H01/CANAL421/PROFILE05.m3u8?totalplay=%2F.ts
+
+#EXTINF:-1 tvg-id="Total-MX_I424.14707.tutvguia.com" tvg-name="424_FXCL424FXCLFox_Classics_Latin_America_(English_Titles)" tvg-logo="fox-classics.png" group-title="Latino",Fox Classics
+http://vod.cdn.iutpcdn.com:80:81:237/LIVE/H01/CANAL424/PROFILE05.m3u8?totalplay=%2F.ts
+
+#EXTINF:-1 tvg-id="Total-MX_I425.76135.tutvguia.com" tvg-name="425_AZCINE425AZCINEAzteca_Cinema" tvg-logo="azcinema.png" group-title="Latino",AZcinema
+http://vod.cdn.iutpcdn.com:80:81:237/LIVE/H01/CANAL425/PROFILE05.m3u8?totalpley=%2F.ts
+
+#EXTINF:-1 tvg-id="Total-MX_I430.28440.tutvguia.com" tvg-name="430_CIN+H430CIN+HCinecanal_+_HDTV_(Latin_America)" tvg-logo="cinecanal-(W).png" group-title="Latino",Cinecanal HD
+http://vod.cdn.iutpcdn.com:80:81:237/LIVE/H01/CANAL430/PROFILE05.m3u8?totalpley=%2F.ts
+
+
+#EXTINF:-1 tvg-id="Total-MX_I435.28452.tutvguia.com" tvg-name="435_TNTHD435TNTHDTNT_Latin_America_HDTV_(Pan-Regional)" tvg-logo="tnt.png" group-title="Latino",TNT HD
+http://vod.cdn.iutpcdn.com:80:81:237/LIVE/H01/CANAL435/PROFILE05.m3u8?totalpley=%2F.ts
+
+#EXTINF:-1 tvg-id="Total-MX_I436.28941.tutvguia.com" tvg-name="436_GLDHD436GLDHDGolden_HDTV" tvg-logo="golden-multi.png" group-title="Latino",Golden
+http://vod.cdn.iutpcdn.com:80:81:237/LIVE/H01/CANAL436/PROFILE05.m3u8?totalpley=%2F.ts
+
+#EXTINF:-1 tvg-id="Total-MX_I440.35675.tutvguia.com" tvg-name="440_FILM.ZHD440FILM.ZHDThe_Film_Zone_HDTV" tvg-logo="the-film-zone-hd.png" group-title="Latino",The Film Zone HD
+http://vod.cdn.iutpcdn.com:80:81:237/LIVE/H01/CANAL440/PROFILE05.m3u8?totalpley=%2F.ts
+
+#EXTINF:-1 tvg-id="Total-MX_I442.34628.tutvguia.com" tvg-name="442_DPELICHD442DPELICHDDe_Película_HDTV_(Latin_America)" tvg-logo="de-pelicula.png" group-title="Latino",De Película HD
+http://vod.cdn.iutpcdn.com:80:81:237/LIVE/H01/CANAL442/PROFILE05.m3u8?totalpley=%2F.ts
+
+#EXTINF:-1 tvg-id="Total-MX_I444.58205.tutvguia.com" tvg-name="444_AMCHD444AMCHDAMC_HDTV_(North)" tvg-logo="amc.png" group-title="Latino",AMC HD
+http://vod.cdn.iutpcdn.com:80:81:237/LIVE/H01/CANAL444/PROFILE05.m3u8?totalpley=%2F.ts
+
+#EXTINF:-1 tvg-id="Total-MX_I418.24158.tutvguia.com" tvg-name="418_FOXFAM418FOXFAMFox_Family_(West)" tvg-logo="fox-family.png" group-title="Latino",Fox Family
+http://vod.cdn.iutpcdn.com:80:81:237/LIVE/H01/CANAL475/PROFILE05.m3u8?totalpley=%2F.ts
+
+#EXTINF:-1 tvg-id="Total-MX_I480.5012.tutvguia.com" tvg-name="480_CINE-O480CINE-OCinecanal_(Oeste)" tvg-logo="cinecanal-(W).png" group-title="Latino",Cinecanal
+http://vod.cdn.iutpcdn.com:80:81:237/LIVE/H01/CANAL480/PROFILE05.m3u8?totalpley=%2F.ts
+
+#EXTINF:-1 tvg-id="Total-MX_I481.3995.tutvguia.com" tvg-name="481_CINMAX481CINMAXCinemax_(Mexico)" tvg-logo="cinemax-(w).png" group-title="Latino",Cinemax
+http://vod.cdn.iutpcdn.com:80:81:237/LIVE/H01/CANAL481/PROFILE05.m3u8?totalpley=%2F.ts
+
+#EXTINF:-1 tvg-id="Total-MX_I482.4574.tutvguia.com" tvg-name="482_TNT482TNTTNT_Latin_America_(Mexico)" tvg-logo="tnt.png" group-title="Latino",TNT
+http://vod.cdn.iutpcdn.com:80:81:237/LIVE/H01/CANAL482/PROFILE05.m3u8?totalpley=%2F.ts
+
+#EXTINF:-1 tvg-id="Total-MX_I484.3748.tutvguia.com" tvg-name="484_CGC2484CGC2Golden_Edge_(Mexico)" tvg-logo="golden-edge.png" group-title="Latino",Golden Edge
+http://vod.cdn.iutpcdn.com:80:81:237/LIVE/H01/CANAL484/PROFILE03.m3u8?totalpley=%2F.ts
+
+#EXTINF:-1 tvg-id="Total-MX_I603.22275.tutvguia.com" tvg-name="603_MILTV603MILTVMilenio_Televisión" tvg-logo="milenio-tv.png" group-title="Latino",Milenio TV
+http://vod.cdn.iutpcdn.com:80:81:237/LIVE/H01/CANAL603/PROFILE05.m3u8?totalpley=%2F.ts
+
+#EXTINF:-1 tvg-id="Total-MX_I610.56222.tutvguia.com" tvg-name="610_FINANCIERO610FINANCIEROEl_Financiero_-_Bloomberg" tvg-logo="bloomberg.png" group-title="Latino",Bloomberg
+http://vod.cdn.iutpcdn.com:80:81:237/LIVE/H01/CANAL610/PROFILE05.m3u8?totalpley=%2F.ts
+
+#EXTINF:-1 tvg-id="TV Guia_Canal 24 Horas (TVE).tutvguia.com" tvg-name="TVE_24.tutvguia.com" tvg-logo="tve.png" group-title="Latino",TVE
+http://vod.cdn.iutpcdn.com:80:81:237/LIVE/H01/CANAL651/PROFILE05.m3u8?totalpley=%2F.ts
+
+#EXTINF:-1 tvg-id="Total-MX_I701.29083.tutvguia.com" tvg-name="701_MTVLIVHD701MTVLIVHDMTV_Live_(MTVNHD_European_for_US_Lineups)" tvg-logo="mtv-live-hd.png" group-title="Latino",MTV Live HD
+http://vod.cdn.iutpcdn.com:80:81:237/LIVE/H01/CANAL701/PROFILE05.m3u8?totalpley=%2F.ts
+
+#EXTINF:-1 tvg-id="Total-MX_I702.34627.tutvguia.com" tvg-name="702_TELHITHD702TELHITHDTelehit_HDTV_(Latin_America)" tvg-logo="telehit-hd.png" group-title="Latino",Telehit HD
+http://vod.cdn.iutpcdn.com:80:81:237/LIVE/H01/CANAL702/PROFILE05.m3u8?totalpley=%2F.ts
+
+#EXTINF:-1 tvg-id="Total-MX_I703.34629.tutvguia.com" tvg-name="703_VH1HD703VH1HDVH1_HDTV_Latin_America_(North)" tvg-logo="vh1.png" group-title="Latino",VH1 HD
+http://vod.cdn.iutpcdn.com:80:81:237/LIVE/H01/CANAL703/PROFILE05.m3u8?totalpley=%2F.ts
+
+#EXTINF:-1 tvg-id="Total-MX_I103.34679.tutvguia.com" tvg-name="103_AZCLIC103AZCLICAzteca_Clic" tvg-logo="azclic.png" group-title="Latino",AZclic
+http://vod.cdn.iutpcdn.com:80:81:237/LIVE/H01/CANAL103/PROFILE05.m3u8?totalpley=%2F.ts
+
+#EXTINF:-1 tvg-id="Total-MX_I726.1205.tutvguia.com" tvg-name="726_MTV726MTVMTV_Latin_America_(North_Feed)" tvg-logo="mtv.png" group-title="Latino",MTV
+http://vod.cdn.iutpcdn.com:80:81:237/LIVE/H01/CANAL726/PROFILE05.m3u8?totalpley=%2F.ts
+
+#EXTINF:-1 tvg-id="Total-MX_I727.36801.tutvguia.com" tvg-name="727_MTVHIT727MTVHITMTV_Hits_(Latin_America_English)" tvg-logo="mtv-hits.png" group-title="Latino",MTV Hits
+http://vod.cdn.iutpcdn.com:80:81:237/LIVE/H01/CANAL727/PROFILE03.m3u8?totalpley=%2F.ts
+
+#EXTINF:-1 tvg-id="Total-MX_I728.24537.tutvguia.com" tvg-name="728_VH1C728VH1CVH1_Classic_Europe_(North_America)" tvg-logo="vh1-classisc.png" group-title="Latino",VH1 Classisc
+http://vod.cdn.iutpcdn.com:80:81:237/LIVE/H01/CANAL728/PROFILE05.m3u8?totalpley=%2F.ts
+
+#EXTINF:-1 tvg-id="Total-MX_I731.1996.tutvguia.com" tvg-name="731_RITMO731RITMORitmoson" tvg-logo="ritmoson-latino.png" group-title="Latino",Ritmoson Latino
+http://vod.cdn.iutpcdn.com:80:81:237/LIVE/H01/CANAL731/PROFILE05.m3u8?totalpley=%2F.ts
+
+#EXTINF:-1 tvg-id="Total-MX_I732.23363.tutvguia.com" tvg-name="732_BANDMX732BANDMXBandamax_(Mexico)" tvg-logo="bandamax.png" group-title="Latino",Bandamax
+http://vod.cdn.iutpcdn.com:80:81:237/LIVE/H01/CANAL732/PROFILE05.m3u8?totalpley=%2F.ts
+
+
+#EXTINF:-1,[COLOR yellow]--- From LAB. tO YOUR TvBox---[/COLOR]
+http://0.0.0.0:1234
+
+
+#EXTM3U
+
+
+#EXTINF:-1 tvg-id="TV Guia_FORMULA1 HD" tvg-name="FORMULA1_HD" tvg-logo="canal-2-HD.png" group-title="Español",FORMULA1 HD
+http://vod.cdn.iutpcdn.com:80:81:237/LIVE/H01/CANAL511/PROFILE05.m3u8?totalplay=%2F.ts
+
+#EXTINF:-1 tvg-id="Total-MX_I2.34680.tutvguia.com" tvg-name="2_AZTNOT2AZTNOTAzteca_Noticias" tvg-logo="azteca-internacional.png" group-title="Latino",Azteca Noticias
+http://vod.cdn.iutpcdn.com:80:81:237/LIVE/H01/CANAL2/PROFILE05.m3u8?totalplay=%2F.ts
+
+#EXTINF:-1 tvg-id="Total-MX_I7.23937.tutvguia.com" tvg-name="7_AZT7HD7AZT7HDXHIMT_Azteca_7_HDTV_DF" tvg-logo="azteca-7.png" group-title="Latino",Azteca 7
+
+http://vod.cdn.iutpcdn.com:80:81:237/LIVE/H01/CANAL7/PROFILE05.m3u8?totalplay=%2F.ts
+
+#EXTINF:-1 tvg-id="Total-MX_I13.21873.tutvguia.com" tvg-name="13_AZT13H13AZT13HXHDF_HDTV_Ciudad_de_México_(Azteca_13)" tvg-logo="el-trece.png" group-title="Latino",El Trece
+http://vod.cdn.iutpcdn.com:80:81:237/LIVE/H01/CANAL13/PROFILE05.m3u8?totalplay=%2F.ts
+
+#EXTINF:-1 tvg-id="Total-MX_I40.45818.tutvguia.com" tvg-name="40_XHTVM40XHTVMXHTVM_Proyecto_40_HDTV_DF" tvg-logo="proyecto-40.png" group-title="Latino",Proyecto 40
+http://vod.cdn.iutpcdn.com:80:81:237/LIVE/H01/CANAL40/PROFILE05.m3u8?totalplay=%2F.ts
+
+#EXTINF:-1 tvg-id="Total-MX_I45.24190.tutvguia.com" tvg-name="45_AZCRZON45AZCRZONAZ_Corazón" tvg-logo="azteca-novelas.png" group-title="Latino",Az Corazón
+http://vod.cdn.iutpcdn.com:80:81:237/LIVE/H01/CANAL45/PROFILE05.m3u8?totalplay=%2F.ts
+
+#EXTINF:-1 tvg-id="Total-MX_I102.21436.tutvguia.com" tvg-name="102_CANL2HD102CANL2HDXEW_HDTV_2_Nacional" tvg-logo="Canal-de-las-estrellas.png" group-title="Latino",Canal 2 HD
+http://vod.cdn.iutpcdn.com:80:81:237/LIVE/H01/CANAL102/PROFILE05.m3u8?totalplay=%2F.ts
+
+#EXTINF:-1 tvg-id="Total-MX_I104.33295.tutvguia.com" tvg-name="104_FOROHD104FOROHDFORO_TV_HDTV" tvg-logo="foro-tv-HD.png" group-title="Latino",Foro TV
+http://vod.cdn.iutpcdn.com:80:81:237/LIVE/H01/CANAL104/PROFILE05.m3u8?totalplay=%2F.ts
+
+#EXTINF:-1 tvg-id="Total-MX_I105.21437.tutvguia.com" tvg-name="105_CANL5HD105CANL5HDXHGC_HDTV_5_Nacional" tvg-logo="canal-5-HD.png" group-title="Latino",Canal 5 HD
+http://vod.cdn.iutpcdn.com:80:81:237/LIVE/H01/CANAL105/PROFILE05.m3u8?totalplay=%2F.ts
+
+#EXTINF:-1 tvg-id="Total-MX_I109.21438.tutvguia.com" tvg-name="109_GALAHD109GALAHDXEQ_Gala_TV_HDTV_9_Nacional" tvg-logo="gala-tv-hd.png" group-title="Latino",Gala TV
+http://vod.cdn.iutpcdn.com:80:81:237/LIVE/H01/CANAL109/PROFILE05.m3u8?totalplay=%2F.ts
+
+#EXTINF:-1 tvg-id="Total-MX_I111.5066.tutvguia.com" tvg-name="111_ONCETV111ONCETVCanal_Once_XEIPN" tvg-logo="once-tv.png" group-title="Latino",Once TV
+http://vod.cdn.iutpcdn.com:80:81:237/LIVE/H01/CANAL111/PROFILE05.m3u8?totalplay=%2F.ts
+
+#EXTINF:-1 tvg-id="Total-MX_I161.12368.tutvguia.com" tvg-name="161_TELEFO161TELEFOTeleFórmula" tvg-logo="teleformula.png" group-title="Latino",TeleFórmula
+
+http://vod.cdn.iutpcdn.com:80:81:237/LIVE/H01/CANAL161/PROFILE05.m3u8?totalplay=%2F.ts
+
+#EXTINF:-1 tvg-id="Total-MX_I167.23322.tutvguia.com" tvg-name="167_MMTV167MMTVMultimedios" tvg-logo="multimedios-monterrey.png" group-title="Latino",Multimedios Monterrey
+http://vod.cdn.iutpcdn.com:80:81:237/LIVE/H01/CANAL167/PROFILE05.m3u8?totalplay=%2F.ts
+
+#EXTINF:-1 tvg-id="Total-MX_I251.5022.tutvguia.com" tvg-name="251_FOX251FOXFox_International_(Mexico)" tvg-logo="fox.png" group-title="Latino",Fox
+http://vod.cdn.iutpcdn.com:80:81:237/LIVE/H01/CANAL201/PROFILE05.m3u8?totalplay=%2F.ts
+
+#EXTINF:-1 tvg-id="Total-MX_I252.5048.tutvguia.com" tvg-name="252_SONY252SONYSony_Entertainment_Television_(Mexico)" tvg-logo="sony.png" group-title="Latino",Sony HD
+http://vod.cdn.iutpcdn.com:80:81:237/LIVE/H01/CANAL203/PROFILE05.m3u8?totalplay=%2F.ts
+
+#EXTINF:-1 tvg-id="Total-MX_I205.30578.tutvguia.com" tvg-name="205_WARNERHD205WARNERHDWarner_Channel_Latin_America_HDTV" tvg-logo="warner.png" group-title="Latino",Warner HD
+http://vod.cdn.iutpcdn.com:80:81:237/LIVE/H01/CANAL205/PROFILE05.m3u8?totalplay=%2F.ts
+
+#EXTINF:-1 tvg-id="Total-MX_I207.28439.tutvguia.com" tvg-name="207_UNIVERHD207UNIVERHDUniversal_Channel_HDTV_(Latin_America)" tvg-logo="universal-channel.png" group-title="Latino",Universal HD
+http://vod.cdn.iutpcdn.com:80:81:237/LIVE/H01/CANAL207/PROFILE05.m3u8?totalplay=%2F.tstotalpley=%2F.ts
+
+#EXTINF:-1 tvg-id="Total-MX_I209.35817.tutvguia.com" tvg-name="209_FXHD209FXHDFX_Latin_America_HDTV_(DIRECTV)" tvg-logo="fx.png" group-title="Latino",FX HD
+http://vod.cdn.iutpcdn.com:80:81:237/LIVE/H01/CANAL209/PROFILE05.m3u8?totalplay=%2F.ts
+
+#EXTINF:-1 tvg-id="Total-MX_I259.5041.tutvguia.com" tvg-name="259_A&E259A&EA&E_(Mexico)" tvg-logo="a&e.png" group-title="Latino",A&E
+http://vod.cdn.iutpcdn.com:80:81:237/LIVE/H01/CANAL211/PROFILE05.m3u8?totalplay=%2F.ts
+
+#EXTINF:-1 tvg-id="Total-MX_I213.30579.tutvguia.com" tvg-name="213_AXNHD213AXNHDAXN_Latin_America_HDTV" tvg-logo="AXN.png" group-title="Latino",AXN HD
+http://vod.cdn.iutpcdn.com:80:81:237/LIVE/H01/CANAL213/PROFILE05.m3u8?totalplay=%2F.ts
+
+#EXTINF:-1 tvg-id="Total-MX_I215.28437.tutvguia.com" tvg-name="215_TRUTVD215TRUTVDtruTV_HDTV_(Latin_America)" tvg-logo="trutv.png" group-title="Latino",TruTV HD
+http://vod.cdn.iutpcdn.com:80:81:237/LIVE/H01/CANAL215/PROFILE05.m3u8?totalplay=%2F.ts
+
+#EXTINF:-1 tvg-id="Total-MX_I217.34626.tutvguia.com" tvg-name="217_CMDHD217CMDHDComedy_Central_HDTV_(Latin_America_-_North)" tvg-logo="comedy-central-hd.png" group-title="Latino",Comedy Central HD
+http://vod.cdn.iutpcdn.com:80:81:237/LIVE/H01/CANAL217/PROFILE05.m3u8?totalplay=%2F.ts
+
+#EXTINF:-1 tvg-id="Total-MX_I218.49820.tutvguia.com" tvg-name="218_UNICAB218UNICABUnicable_(Mexico)" tvg-logo="unicable.png" group-title="Latino",Unicable
+http://vod.cdn.iutpcdn.com:80:81:237/LIVE/H01/CANAL218/PROFILE05.m3u8?totalplay=%2F.ts
+
+#EXTINF:-1 tvg-id="Total-MX_I253.3343.tutvguia.com" tvg-name="253_BBCINT253BBCINTBBC_World_News" tvg-logo="bbc-entertainment.png" group-title="Latino",BBC Entertainment
+http://vod.cdn.iutpcdn.com:80:81:237/LIVE/H01/CANAL253/PROFILE05.m3u8?totalplay=%2F.ts
+
+#EXTINF:-1 tvg-id="Total-MX_I255.2247.tutvguia.com" tvg-name="255_E!255E!E!_Entertainment_Television_(Mexico)" tvg-logo="!e.png" group-title="Latino",E! Entertainment Television
+http://vod.cdn.iutpcdn.com:80:81:237/LIVE/H01/CANAL255/PROFILE05.m3u8?totalplay=%2F.ts
+
+#EXTINF:-1 tvg-id="Total-MX_I256.19205.tutvguia.com" tvg-name="256_UNIVERS256UNIVERSUniversal_Channel_(Mexico)" tvg-logo="universal-channel.png" group-title="Latino",Universal Channel
+http://vod.cdn.iutpcdn.com:80:81:237/LIVE/H01/CANAL256/PROFILE05.m3u8?totalplay=%2F.ts
+
+#EXTINF:-1 tvg-id="Total-MX_I257.21041.tutvguia.com" tvg-name="257_Syfy257SyfySyfy_(Latin_America)" tvg-logo="syfy.png" group-title="Latino",SyFy
+http://vod.cdn.iutpcdn.com:80:81:237/LIVE/H01/CANAL257/PROFILE05.m3u8?totalplay=%2F.ts
+
+#EXTINF:-1 tvg-id="Total-MX_I258.16756.tutvguia.com" tvg-name="258_FX258FXFX_Latin_America" tvg-logo="fx.png" group-title="Latino",FX
+http://vod.cdn.iutpcdn.com:80:81:237/LIVE/H01/CANAL258/PROFILE05.m3u8?totalplay=%2F.ts
+
+#EXTINF:-1 tvg-id="Total-MX_I268.9412.tutvguia.com" tvg-name="268_GOURMT268GOURMTElgourmet.com_(Norte)" tvg-logo="el-gourmet.png" group-title="Latino",El Gourmet
+
+http://vod.cdn.iutpcdn.com:80:81:237/LIVE/H01/CANAL268/PROFILE05.m3u8?totalplay=%2F.ts
+
+#EXTINF:-1 tvg-id="Total-MX_I270.19643.tutvguia.com" tvg-name="270_GLITZ270GLITZGLITZ_Panregional_(Norte)" tvg-logo="glitz.png" group-title="Latino",Glitz
+http://vod.cdn.iutpcdn.com:80:81:237/LIVE/H01/CANAL270/PROFILE05.m3u8?totalplay=%2F.ts
+
+#EXTINF:-1 tvg-id="Total-MX_I262.32262.tutvguia.com" tvg-name="262_FOXLF262FOXLFFox_Life_(Latin_America)" tvg-logo="fox-life.png" group-title="Latino",Fox Life
+http://vod.cdn.iutpcdn.com:80:81:237/LIVE/H01/CANAL271/PROFILE05.m3u8?totalplay=%2F.ts
+
+#EXTINF:-1 tvg-id="Total-MX_I272.20020.tutvguia.com" tvg-name="272_DISTCOM272DISTCOMDistrito_Comedia" tvg-logo="distrito-comedia.png" group-title="Latino",Distrito Comedia
+http://vod.cdn.iutpcdn.com:80:81:237/LIVE/H01/CANAL272/PROFILE05.m3u8?totalpley=%2F.ts
+
+#EXTINF:-1 tvg-id="Total-MX_I273.32996.tutvguia.com" tvg-name="273_TBS273TBSTBS_Latin_America" tvg-logo="tbs.png" group-title="Latino",TBS
+http://vod.cdn.iutpcdn.com:80:81:237/LIVE/H01/CANAL273/PROFILE05.m3u8?totalplay=%2F.ts
+
+#EXTINF:-1 tvg-id="Total-MX_I274.8461.tutvguia.com" tvg-name="274_MASCHINT274MASCHINTMás_Chic_TV_International" tvg-logo="mas-chic.png" group-title="Latino",Más Chic
+http://vod.cdn.iutpcdn.com:80:81:237/LIVE/H01/CANAL274/PROFILE05.m3u8?totalplay=%2F.ts
+
+
+#EXTINF:-1 tvg-id="Total-MX_I275.9990.tutvguia.com" tvg-name="275_TLNOV275TLNOVTele_Novelas_(México)" tvg-logo="tlnovelas.png" group-title="Latino",Tlnovelas
+http://vod.cdn.iutpcdn.com:80:81:237/LIVE/H01/CANAL275/PROFILE05.m3u8?totalplay=%2F.ts
+
+
+#EXTINF:-1 tvg-id="Total-MX_I303.18881.tutvguia.com" tvg-name="303_DKIDS303DKIDSDiscovery_Kids_(Mexico)" tvg-logo="discovery-kids.png" group-title="Latino",Discovery Kids
+http://vod.cdn.iutpcdn.com:80:81:237/LIVE/H01/CANAL303/PROFILE05.m3u8?totalplay=%2F.ts
+
+
+#EXTINF:-1 tvg-id="Total-MX_I305.23264.tutvguia.com" tvg-name="305_CBeBie305CBeBieCBeebies" tvg-logo="cbeebies.png" group-title="Latino",CBeebies
+http://vod.cdn.iutpcdn.com:80:81:237/LIVE/H01/CANAL305/PROFILE05.m3u8?totalplay=%2F.ts
+
+
+#EXTINF:-1 tvg-id="Total-MX_I308.21129.tutvguia.com" tvg-name="308_DISJR308DISJRDisney_Junior_(North_Feed)" tvg-logo="disney-jr.png" group-title="Latino",Disney Jr
+http://vod.cdn.iutpcdn.com:80:81:237/LIVE/H01/CANAL308/PROFILE05.m3u8?totalpley=%2F.ts
+
+
+#EXTINF:-1 tvg-id="Total-MX_I310.21199.tutvguia.com" tvg-name="310_NICKJR310NICKJRNick_Jr." tvg-logo="nick-jr.png" group-title="Latino",Nick Jr
+http://vod.cdn.iutpcdn.com:80:81:237/LIVE/H01/CANAL310/PROFILE05.m3u8?totalplay=%2F.ts
+
+
+#EXTINF:-1 tvg-id="Total-MX_I312.9374.tutvguia.com" tvg-name="312_DISNEY312DISNEYDisney_en_Español_(North_Feed)" tvg-logo="disney-channel.png" group-title="Latino",Disney Channel
+http://vod.cdn.iutpcdn.com:80:81:237/LIVE/H01/CANAL312/PROFILE03.m3u8?totalplay=%2F.ts
+
+
+#EXTINF:-1 tvg-id="Total-MX_I314.38401.tutvguia.com" tvg-name="314_NTOONS314NTOONSNicktoons_(Latin_America)" tvg-logo="nicktoons.png" group-title="Latino",NickToons
+http://vod.cdn.iutpcdn.com:80:81:237/LIVE/H01/CANAL314/PROFILE05.m3u8?totalplay=%2F.ts
+
+
+#EXTINF:-1 tvg-id="Total-MX_I315.33278.tutvguia.com" tvg-name="315_NICKHD315NICKHDNickelodeon_HDTV_(Latin_America)" tvg-logo="nickelodeon-(nick).png" group-title="Latino",Nick HD
+http://vod.cdn.iutpcdn.com:80:81:237/LIVE/H01/CANAL315/PROFILE05.m3u8?totalpley=%2F.ts
+
+
+#EXTINF:-1 tvg-id="Total-MX_I317.5043.tutvguia.com" tvg-name="317_NICK317NICKNickelodeon_(Latin_America_/_North)" tvg-logo="nickelodeon.png" group-title="Latino",Nickelodeon
+http://vod.cdn.iutpcdn.com:80:81:237/LIVE/H01/CANAL317/PROFILE05.m3u8?totalplay=%2F.ts
+
+
+#EXTINF:-1 tvg-id="Total-MX_I320.5011.tutvguia.com" tvg-name="320_TOON320TOONCartoon_Network_(Latin_America_-_Mexico)" tvg-logo="cartoon-network.png" group-title="Latino",Cartoon Network
+http://vod.cdn.iutpcdn.com:80:81:237/LIVE/H01/CANAL320/PROFILE05.m3u8?totalpley=%2F.ts
+
+
+#EXTINF:-1 tvg-id="Total-MX_I322.9757.tutvguia.com" tvg-name="322_DISXD322DISXDDisney_XD_Latin_America_(North)" tvg-logo="disney-xd.png" group-title="Latino",Disney XD
+http://vod.cdn.iutpcdn.com:80:81:237/LIVE/H01/CANAL322/PROFILE05.m3u8?totalplay=%2F.ts
+
+
+#EXTINF:-1 tvg-id="Total-MX_I324.23509.tutvguia.com" tvg-name="324_BOOM324BOOMBoomerang_(Mexico)" tvg-logo="boomerang.png" group-title="Latino",Boomerang
+http://vod.cdn.iutpcdn.com:80:81:237/LIVE/H01/CANAL324/PROFILE05.m3u8?totalplay=%2F.ts
+
+
+#EXTINF:-1 tvg-id="Total-MX_I325.12263.tutvguia.com" tvg-name="325_TIIN325TIINTiiN" tvg-logo="tiin.png" group-title="Latino",TIIN
+http://vod.cdn.iutpcdn.com:80:81:237/LIVE/H01/CANAL325/PROFILE05.m3u8?totalpley=%2F.ts
+
+
+#EXTINF:-1 tvg-id="Total-MX_I328.23312.tutvguia.com" tvg-name="328_TOONC328TOONCTooncast_Latin_America" tvg-logo="tooncast.png" group-title="Latino",Tooncast
+http://vod.cdn.iutpcdn.com:80:81:237/LIVE/H01/CANAL328/PROFILE05.m3u8?totalpley=%2F.ts
+
+
+#EXTINF:-1 tvg-id="Total-MX_I263.11466.tutvguia.com" tvg-name="263_ID263IDInvestigation_Discovery_(Mexico)" tvg-logo="investigation_discovery.png" group-title="Latino",Investigación Discovery
+http://vod.cdn.iutpcdn.com:80:81:237/LIVE/H01/CANAL263/PROFILE05.m3u8?totalplay=%2F.ts
+
+
+#EXTINF:-1 tvg-id="Total-MX_I266.58465.tutvguia.com" tvg-name="266_TNTSERIE266TNTSERIETNT_Series_SUR_SD" tvg-logo="TNT_Serie.png" group-title="Latino",TNT Series
+http://vod.cdn.iutpcdn.com:80:81:237/LIVE/H01/CANAL266/PROFILE05.m3u8?totalplay=%2F.ts
+
+
+#EXTINF:-1 tvg-id="Total-MX_I351.23559.tutvguia.com" tvg-name="351_THEATER351THEATERDiscovery_Theater_HDTV_(Latin_America)" tvg-logo="discovery-theater.png" group-title="Latino",Discovery Theater HD
+http://vod.cdn.iutpcdn.com:80:81:237/LIVE/H01/CANAL351/PROFILE05.m3u8?totalplay=%2F.ts
+
+
+#EXTINF:-1 tvg-id="Total-MX_I353.28410.tutvguia.com" tvg-name="353_THCINHD353THCINHDThe_History_Channel_HDTV" tvg-logo="history.png" group-title="Latino",History HD
+http://vod.cdn.iutpcdn.com:80:81:237/LIVE/H01/CANAL353/PROFILE03.m3u8?totalplay=%2F.ts
+
+
+#EXTINF:-1 tvg-id="Total-MX_I355.27421.tutvguia.com" tvg-name="355_NGWILDHD355NGWILDHDNational_Geographic_Wild_HDTV_(Latin_America)" tvg-logo="natgeo-wild.png" group-title="Latino",NatGeo Wild HD
+http://vod.cdn.iutpcdn.com:80:81:237/LIVE/H01/CANAL355/PROFILE05.m3u8?totalplay=%2F.ts
+
+
+#EXTINF:-1 tvg-id="Total-MX_I356.9294.tutvguia.com" tvg-name="356_TLC356TLCTLC_(Latin_America)" tvg-logo="discovery-world-hd.png" group-title="Latino",Discovery World HD
+http://vod.cdn.iutpcdn.com:80:81:237/LIVE/H01/CANAL356/PROFILE05.m3u8?totalplay=%2F.ts
+
+
+#EXTINF:-1 tvg-id="Total-MX_I371.10644.tutvguia.com" tvg-name="371_DSC371DSCThe_Discovery_Channel_(Mexico)" tvg-logo="discovery-channel.png" group-title="Latino",Discovery Channel
+http://vod.cdn.iutpcdn.com:80:81:237/LIVE/H01/CANAL371/PROFILE05.m3u8?totalplay=%2F.ts
+
+
+#EXTINF:-1 tvg-id="Total-MX_I373.75657.tutvguia.com" tvg-name="373_ANIMAL373ANIMALAnimal_Planet_International_(Mexico)" tvg-logo="animalplanet.png" group-title="Latino",Animal Planet
+http://vod.cdn.iutpcdn.com:80:81:237/LIVE/H01/CANAL373/PROFILE05.m3u8?totalplay=%2F.ts
+
+
+#EXTINF:-1 tvg-id="Total-MX_I374.23218.tutvguia.com" tvg-name="374_DH&H374DH&HDiscovery_Home_&_Health_(Mexico)" tvg-logo="home-and-health.png" group-title="Latino",Home and Health
+http://vod.cdn.iutpcdn.com:80:81:237/LIVE/H01/CANAL374/PROFILE03.m3u8?totalplay=%2F.ts
+
+
+#EXTINF:-1 tvg-id="Total-MX_I354.12260.tutvguia.com" tvg-name="354_NGC354NGCNational_Geographic_Channel_(West_/_Mexico)" tvg-logo="natgeo.png" group-title="Latino",NatGeo
+http://vod.cdn.iutpcdn.com:80:81:237/LIVE/H01/CANAL377/PROFILE05.m3u8?totalplay=%2F.ts
+
+
+#EXTINF:-1 tvg-id="Total-MX_I379.19092.tutvguia.com" tvg-name="379_LIFETIME379LIFETIMELifetime_(México)" tvg-logo="lifetime.png" group-title="Latino",Lifetime
+http://vod.cdn.iutpcdn.com:80:81:237/LIVE/H01/CANAL379/PROFILE05.m3u8?totalplay=%2F.ts
+
+
+#EXTINF:-1 tvg-id="Total-MX_I381.16122.tutvguia.com" tvg-name="381_DSCI381DSCIDiscovery_Science_International" tvg-logo="discovery-science.png" group-title="Latino",Discovery Science
+http://vod.cdn.iutpcdn.com:80:81:237/LIVE/H01/CANAL381/PROFILE05.m3u8?totalplay=%2F.ts
+
+
+#EXTINF:-1 tvg-id="Total-MX_I382.16121.tutvguia.com" tvg-name="382_DCIVI382DCIVIDiscovery_Civilization_International" tvg-logo="discovery-civilization.png" group-title="Latino",Discovery Civilization
+http://vod.cdn.iutpcdn.com:80:81:237/LIVE/H01/CANAL382/PROFILE05.m3u8?totalplay=%2F.ts
+
+
+#EXTINF:-1 tvg-id="Total-MX_I383.16118.tutvguia.com" tvg-name="383_DTUR383DTURDiscovery_Turbo_International" tvg-logo="discovery-turbo.png" group-title="Latino",Discovery Turbo
+http://vod.cdn.iutpcdn.com:80:81:237/LIVE/H01/CANAL383/PROFILE05.m3u8?totalplay=%2F.ts
+
+
+#EXTINF:-1 tvg-id="Total-MX_I356.9294.tutvguia.com" tvg-name="356_TLC356TLCTLC_(Latin_America)" tvg-logo="tlc.png" group-title="Latino",TLC
+http://vod.cdn.iutpcdn.com:80:81:237/LIVE/H01/CANAL386/PROFILE05.m3u8?totalplay=%2F.ts
+
+
+#EXTINF:-1 tvg-id="Total-MX_I387.19272.tutvguia.com" tvg-name="387_WOBI387WOBIWorld_of_Business_Ideas" tvg-logo="wobi-tv.png" group-title="Latino",WOBI TV
+http://vod.cdn.iutpcdn.com:80:81:237/LIVE/H01/CANAL387/PROFILE05.m3u8?totalplay=%2F.ts
+
+
+#EXTINF:-1 tvg-id="Total-MX_I415.35334.tutvguia.com" tvg-name="415_F1HD415F1HDFOX_1_HDTV_(West)" tvg-logo="fox-1-hd.png" group-title="Latino",Fox 1 HD
+http://vod.cdn.iutpcdn.com:80:81:237/LIVE/H01/CANAL415/PROFILE05.m3u8?totalplay=%2F.ts
+
+
+#EXTINF:-1 tvg-id="Total-MX_I416.33474.tutvguia.com" tvg-name="416_FACHD416FACHDFox_Action_HDTV_(East)" tvg-logo="fox-action.png" group-title="Latino",Fox Action
+http://vod.cdn.iutpcdn.com:80:81:237/LIVE/H01/CANAL416/PROFILE05.m3u8?totalplay=%2F.ts
+
+
+#EXTINF:-1 tvg-id="Total-MX_I417.33135.tutvguia.com" tvg-name="417_FMOHD417FMOHDFox_Movies_HDTV_(East)" tvg-logo="Fox_Moxie_Channel.png" group-title="Latino",Fox Movies HD
+http://vod.cdn.iutpcdn.com:80:81:237/LIVE/H01/CANAL417/PROFILE05.m3u8?totalpley=%2F.ts
+
+
+#EXTINF:-1 tvg-id="Total-MX_I421.29522.tutvguia.com" tvg-name="421_FOXCI421FOXCIFox_Cinéma" tvg-logo="fox-cinema.png" group-title="Latino",Fox Cinéma
+http://vod.cdn.iutpcdn.com:80:81:237/LIVE/H01/CANAL421/PROFILE05.m3u8?totalplay=%2F.ts
+
+
+#EXTINF:-1 tvg-id="Total-MX_I424.14707.tutvguia.com" tvg-name="424_FXCL424FXCLFox_Classics_Latin_America_(English_Titles)" tvg-logo="fox-classics.png" group-title="Latino",Fox Classics
+http://vod.cdn.iutpcdn.com:80:81:237/LIVE/H01/CANAL424/PROFILE05.m3u8?totalplay=%2F.ts
+
+
+#EXTINF:-1 tvg-id="Total-MX_I425.76135.tutvguia.com" tvg-name="425_AZCINE425AZCINEAzteca_Cinema" tvg-logo="azcinema.png" group-title="Latino",AZcinema
+http://vod.cdn.iutpcdn.com:80:81:237/LIVE/H01/CANAL425/PROFILE05.m3u8?totalpley=%2F.ts
+
+
+#EXTINF:-1 tvg-id="Total-MX_I430.28440.tutvguia.com" tvg-name="430_CIN+H430CIN+HCinecanal_+_HDTV_(Latin_America)" tvg-logo="cinecanal-(W).png" group-title="Latino",Cinecanal HD
+http://vod.cdn.iutpcdn.com:80:81:237/LIVE/H01/CANAL430/PROFILE05.m3u8?totalpley=%2F.ts
+
+
+#EXTINF:-1 tvg-id="Total-MX_I435.28452.tutvguia.com" tvg-name="435_TNTHD435TNTHDTNT_Latin_America_HDTV_(Pan-Regional)" tvg-logo="tnt.png" group-title="Latino",TNT HD
+http://vod.cdn.iutpcdn.com:80:81:237/LIVE/H01/CANAL435/PROFILE05.m3u8?totalpley=%2F.ts
+
+
+#EXTINF:-1 tvg-id="Total-MX_I436.28941.tutvguia.com" tvg-name="436_GLDHD436GLDHDGolden_HDTV" tvg-logo="golden-multi.png" group-title="Latino",Golden
+http://vod.cdn.iutpcdn.com:80:81:237/LIVE/H01/CANAL436/PROFILE05.m3u8?totalpley=%2F.ts
+
+
+#EXTINF:-1 tvg-id="Total-MX_I440.35675.tutvguia.com" tvg-name="440_FILM.ZHD440FILM.ZHDThe_Film_Zone_HDTV" tvg-logo="the-film-zone-hd.png" group-title="Latino",The Film Zone HD
+http://vod.cdn.iutpcdn.com:80:81:237/LIVE/H01/CANAL440/PROFILE05.m3u8?totalpley=%2F.ts
+
+
+#EXTINF:-1 tvg-id="Total-MX_I442.34628.tutvguia.com" tvg-name="442_DPELICHD442DPELICHDDe_Película_HDTV_(Latin_America)" tvg-logo="de-pelicula.png" group-title="Latino",De Película HD
+http://vod.cdn.iutpcdn.com:80:81:237/LIVE/H01/CANAL442/PROFILE05.m3u8?totalpley=%2F.ts
+
+
+#EXTINF:-1 tvg-id="Total-MX_I444.58205.tutvguia.com" tvg-name="444_AMCHD444AMCHDAMC_HDTV_(North)" tvg-logo="amc.png" group-title="Latino",AMC HD
+http://vod.cdn.iutpcdn.com:80:81:237/LIVE/H01/CANAL444/PROFILE05.m3u8?totalpley=%2F.ts
+
+
+#EXTINF:-1 tvg-id="Total-MX_I445.27416.tutvguia.com" tvg-name="445_SPACEHD445SPACEHDSPACE_HDTV_(Mexico)" tvg-logo="space.png" group-title="Latino",Space HD
+http://vod.cdn.iutpcdn.com:80:81:237/LIVE/H01/CANAL445/PROFILE05.m3u8?totalpley=%2F.ts
+
+
+#EXTINF:-1 tvg-id="Total-MX_I418.24158.tutvguia.com" tvg-name="418_FOXFAM418FOXFAMFox_Family_(West)" tvg-logo="fox-family.png" group-title="Latino",Fox Family
+http://vod.cdn.iutpcdn.com:80:81:237/LIVE/H01/CANAL475/PROFILE05.m3u8?totalpley=%2F.ts
+
+
+#EXTINF:-1 tvg-id="Total-MX_I480.5012.tutvguia.com" tvg-name="480_CINE-O480CINE-OCinecanal_(Oeste)" tvg-logo="cinecanal-(W).png" group-title="Latino",Cinecanal
+http://vod.cdn.iutpcdn.com:80:81:237/LIVE/H01/CANAL480/PROFILE05.m3u8?totalpley=%2F.ts
+
+
+#EXTINF:-1 tvg-id="Total-MX_I481.3995.tutvguia.com" tvg-name="481_CINMAX481CINMAXCinemax_(Mexico)" tvg-logo="cinemax-(w).png" group-title="Latino",Cinemax
+http://vod.cdn.iutpcdn.com:80:81:237/LIVE/H01/CANAL481/PROFILE05.m3u8?totalpley=%2F.ts
+
+
+#EXTINF:-1 tvg-id="Total-MX_I482.4574.tutvguia.com" tvg-name="482_TNT482TNTTNT_Latin_America_(Mexico)" tvg-logo="tnt.png" group-title="Latino",TNT
+http://vod.cdn.iutpcdn.com:80:81:237/LIVE/H01/CANAL482/PROFILE05.m3u8?totalpley=%2F.ts
+
+
+#EXTINF:-1 tvg-id="Total-MX_I484.3748.tutvguia.com" tvg-name="484_CGC2484CGC2Golden_Edge_(Mexico)" tvg-logo="golden-edge.png" group-title="Latino",Golden Edge
+http://vod.cdn.iutpcdn.com:80:81:237/LIVE/H01/CANAL484/PROFILE03.m3u8?totalpley=%2F.ts
+
+
+#EXTINF:-1 tvg-id="Total-MX_I491.23310.tutvguia.com" tvg-name="491_SPACE491SPACESPACE_(Mexico)" tvg-logo="space.png" group-title="Latino",Space
+http://vod.cdn.iutpcdn.com:80:81:237/LIVE/H01/CANAL491/PROFILE03.m3u8?totalpley=%2F.ts
+
+
+#EXTINF:-1 tvg-id="Total-MX_I492.4316.tutvguia.com" tvg-name="492_STUNI492STUNIStudio_Universal_(Mexico)" tvg-logo="studio-universal.png" group-title="Latino",Studio Universal
+http://vod.cdn.iutpcdn.com:80:81:237/LIVE/H01/CANAL492/PROFILE05.m3u8?totalpley=%2F.ts
+
+
+#EXTINF:-1 tvg-id="Total-MX_I495.23556.tutvguia.com" tvg-name="495_I-SAT495I-SATI-SAT_(Pan-Regional)" tvg-logo="i.sat.png" group-title="Latino",I.Sat
+http://vod.cdn.iutpcdn.com:80:81:237/LIVE/H01/CANAL495/PROFILE05.m3u8?totalpley=%2F.ts
+
+
+#EXTINF:-1 tvg-id="Total-MX_I496.23013.tutvguia.com" tvg-name="496_TCMLA496TCMLATCM_-_Turner_Classic_Movies_(Pan-Regional)" tvg-logo="tcm.png" group-title="Latino",TCM
+http://vod.cdn.iutpcdn.com:80:81:237/LIVE/H01/CANAL496/PROFILE05.m3u8?totalpley=%2F.ts
+
+
+#EXTINF:-1 tvg-id="Total-MX_I522.20544.tutvguia.com" tvg-name="522_FSAHD522FSAHDFox_Sports_Latin_America_HDTV_(Northern_Feed)" tvg-logo="FoxSports1.png" group-title="Latino",Fox Sports HD
+http://vod.cdn.iutpcdn.com:80:81:237/LIVE/H01/CANAL522/PROFILE05.m3u8?totalpley=%2F.ts
+
+
+#EXTINF:-1 tvg-id="Total-MX_I527.29091.tutvguia.com" tvg-name="527_FOXSP2HD527FOXSP2HDFox_Sports_2_HDTV" tvg-logo="FoxSports2.png" group-title="Latino",Fox Sports 2 HD
+http://vod.cdn.iutpcdn.com:80:81:237/LIVE/H01/CANAL527/PROFILE03.m3u8?totalpley=%2F.ts
+
+
+#EXTINF:-1 tvg-id="Total-MX_I516.24270.tutvguia.com" tvg-name="516_ESPN+516ESPN+ESPN_+_Latin_America_HDTV" tvg-logo="espn.png" group-title="Latino",ESPN HD
+http://vod.cdn.iutpcdn.com:80:81:237/LIVE/H01/CANAL516/PROFILE03.m3u8?totalpley=%2F.ts
+
+
+#EXTINF:-1 tvg-id="Total-MX_I516.24270.tutvguia.com" tvg-name="516_ESPN+516ESPN+ESPN_+_Latin_America_HDTV" tvg-logo="espn-2.png" group-title="Latino",ESPN HD
+http://vod.cdn.iutpcdn.com:80:81:237/LIVE/H01/CANAL516/PROFILE05.m3u8?totalpley=%2F.ts
+
+
+#EXTINF:-1 tvg-id="Total-MX_I558.18573.tutvguia.com" tvg-name="558_ESPNMX558ESPNMXESPN_Latin_North_(Mexico)" tvg-logo="espn.png" group-title="Latino",ESPN
+http://vod.cdn.iutpcdn.com:80:81:237/LIVE/H01/CANAL558/PROFILE05.m3u8?totalpley=%2F.ts
+
+
+#EXTINF:-1 tvg-id="Total-MX_I561.3679.tutvguia.com" tvg-name="561_ESPN2561ESPN2ESPN-2_(Mexico)" tvg-logo="espn-2.png" group-title="Latino",ESPN 2
+http://vod.cdn.iutpcdn.com:80:81:237/LIVE/H01/CANAL561/PROFILE03.m3u8?totalpley=%2F.ts
+
+
+#EXTINF:-1 tvg-id="Total-MX_I520.38250.tutvguia.com" tvg-name="520_ESPN3520ESPN3ESPN_3_North_(Latin_America)" tvg-logo="espn-3.png" group-title="Latino",ESPN 3 HD
+http://vod.cdn.iutpcdn.com:80:81:237/LIVE/H01/CANAL520/PROFILE05.m3u8?totalpley=%2F.ts
+
+
+#EXTINF:-1 tvg-id="Total-MX_I576.15973.tutvguia.com" tvg-name="576_AyM576AyMAYM_Sports" tvg-logo="aym-sports.png" group-title="Latino",AyM Sports
+http://vod.cdn.iutpcdn.com:80:81:237/LIVE/H01/CANAL576/PROFILE05.m3u8?totalpley=%2F.ts
+
+
+#EXTINF:-1 tvg-id="Total-MX_I603.22275.tutvguia.com" tvg-name="603_MILTV603MILTVMilenio_Televisión" tvg-logo="milenio-tv.png" group-title="Latino",Milenio TV
+http://vod.cdn.iutpcdn.com:80:81:237/LIVE/H01/CANAL603/PROFILE05.m3u8?totalpley=%2F.ts
+
+
+#EXTINF:-1 tvg-id="Total-MX_I610.56222.tutvguia.com" tvg-name="610_FINANCIERO610FINANCIEROEl_Financiero_-_Bloomberg" tvg-logo="bloomberg.png" group-title="Latino",Bloomberg
+http://vod.cdn.iutpcdn.com:80:81:237/LIVE/H01/CANAL610/PROFILE05.m3u8?totalpley=%2F.ts
+
+
+#EXTINF:-1 tvg-id="TV Guia_Canal 24 Horas (TVE).tutvguia.com" tvg-name="TVE_24.tutvguia.com" tvg-logo="tve.png" group-title="Latino",TVE
+http://vod.cdn.iutpcdn.com:80:81:237/LIVE/H01/CANAL651/PROFILE05.m3u8?totalpley=%2F.ts
+
+
+#EXTINF:-1 tvg-id="Total-MX_I701.29083.tutvguia.com" tvg-name="701_MTVLIVHD701MTVLIVHDMTV_Live_(MTVNHD_European_for_US_Lineups)" tvg-logo="mtv-live-hd.png" group-title="Latino",MTV Live HD
+http://vod.cdn.iutpcdn.com:80:81:237/LIVE/H01/CANAL701/PROFILE05.m3u8?totalpley=%2F.ts
+
+
+#EXTINF:-1 tvg-id="Total-MX_I702.34627.tutvguia.com" tvg-name="702_TELHITHD702TELHITHDTelehit_HDTV_(Latin_America)" tvg-logo="telehit-hd.png" group-title="Latino",Telehit HD
+http://vod.cdn.iutpcdn.com:80:81:237/LIVE/H01/CANAL702/PROFILE05.m3u8?totalpley=%2F.ts
+
+
+#EXTINF:-1 tvg-id="Total-MX_I703.34629.tutvguia.com" tvg-name="703_VH1HD703VH1HDVH1_HDTV_Latin_America_(North)" tvg-logo="vh1.png" group-title="Latino",VH1 HD
+http://vod.cdn.iutpcdn.com:80:81:237/LIVE/H01/CANAL703/PROFILE05.m3u8?totalpley=%2F.ts
+
+
+#EXTINF:-1 tvg-id="Total-MX_I103.34679.tutvguia.com" tvg-name="103_AZCLIC103AZCLICAzteca_Clic" tvg-logo="azclic.png" group-title="Latino",AZclic
+http://vod.cdn.iutpcdn.com:80:81:237/LIVE/H01/CANAL103/PROFILE05.m3u8?totalpley=%2F.ts
+
+
+#EXTINF:-1 tvg-id="Total-MX_I726.1205.tutvguia.com" tvg-name="726_MTV726MTVMTV_Latin_America_(North_Feed)" tvg-logo="mtv.png" group-title="Latino",MTV
+http://vod.cdn.iutpcdn.com:80:81:237/LIVE/H01/CANAL726/PROFILE05.m3u8?totalpley=%2F.ts
+
+
+#EXTINF:-1 tvg-id="Total-MX_I727.36801.tutvguia.com" tvg-name="727_MTVHIT727MTVHITMTV_Hits_(Latin_America_English)" tvg-logo="mtv-hits.png" group-title="Latino",MTV Hits
+http://vod.cdn.iutpcdn.com:80:81:237/LIVE/H01/CANAL727/PROFILE03.m3u8?totalpley=%2F.ts
+
+
+#EXTINF:-1 tvg-id="Total-MX_I728.24537.tutvguia.com" tvg-name="728_VH1C728VH1CVH1_Classic_Europe_(North_America)" tvg-logo="vh1-classisc.png" group-title="Latino",VH1 Classisc
+http://vod.cdn.iutpcdn.com:80:81:237/LIVE/H01/CANAL728/PROFILE05.m3u8?totalpley=%2F.ts
+
+
+#EXTINF:-1 tvg-id="Total-MX_I731.1996.tutvguia.com" tvg-name="731_RITMO731RITMORitmoson" tvg-logo="ritmoson-latino.png" group-title="Latino",Ritmoson Latino
+http://vod.cdn.iutpcdn.com:80:81:237/LIVE/H01/CANAL731/PROFILE05.m3u8?totalpley=%2F.ts
+
+
+#EXTINF:-1 tvg-id="Total-MX_I732.23363.tutvguia.com" tvg-name="732_BANDMX732BANDMXBandamax_(Mexico)" tvg-logo="bandamax.png" group-title="Latino",Bandamax
+http://vod.cdn.iutpcdn.com:80:81:237/LIVE/H01/CANAL732/PROFILE05.m3u8?totalpley=%2F.ts
